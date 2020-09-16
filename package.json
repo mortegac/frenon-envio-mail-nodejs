@@ -1,0 +1,16 @@
+{
+  "name": "envioEmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@nodemailer/mailparser2": "^1.0.3",
+    "@nodemailer/pro": "^1.0.0"
+  },
+  "keywords": [],
+  "author": "Manuel Ortega Carcamo",
+  "license": "ISC"
+}
